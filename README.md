@@ -1,14 +1,6 @@
 
 
-<p align="center"> Please run following commands to setup it</p>
 
-<p align="center">1- composer update</p>
-<p align="center">2-php artisan migrate</p>
-<p align="center">3- php artisan db:seed</p>
-<p align="center">4-DTL Products.postman_collection.json import file in the POSTMAN</p>
-
-
-<p align="center">optional : composer dump-autoload</p>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
@@ -68,3 +60,18 @@ Requirements:
     We want to log a record's all changes. To see these information’s Who changed, which field changed, when was this change made. It's enough to see for us what kind of Models and Migrations you create on the system. We want to see what kind of structure you did.  
 
      The product list's additional features. There should be a search bar to filter user who added the product, and it can be search as product name. 
+     
+     
+     
+     
+     
+     
+     <p align="center"> Please run following commands to setup it</p>
+
+<p align="center">1- composer update</p>
+<p align="center">2-php artisan migrate</p>
+<p align="center">3- php artisan db:seed</p>
+<p align="center">4-DTL Products.postman_collection.json import file in the POSTMAN</p>
+
+
+<p align="center">optional : composer dump-autoload</p>
