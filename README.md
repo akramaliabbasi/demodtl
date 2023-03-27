@@ -1,13 +1,14 @@
 
-Please run following commands to setup it
 
-1- composer update
-2-php artisan migrate
-3- php artisan db:seed
-4-DTL Products.postman_collection.json import file in the POSTMAN
+<p align="center"> Please run following commands to setup it</p>
+
+<p align="center">1- composer update</p>
+<p align="center">2-php artisan migrate</p>
+<p align="center">3- php artisan db:seed</p>
+<p align="center">4-DTL Products.postman_collection.json import file in the POSTMAN</p>
 
 
-optional : composer dump-autoload
+<p align="center">optional : composer dump-autoload</p>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
